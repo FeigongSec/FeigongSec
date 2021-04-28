@@ -1,4 +1,4 @@
-### Feigong Sec 👋
+### 扫码关注非攻安全 👋
 
 <!--
 **FeigongSec/FeigongSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
