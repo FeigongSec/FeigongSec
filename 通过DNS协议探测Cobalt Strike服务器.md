@@ -445,4 +445,4 @@ public DNSServer.Response respond_nosync(String var1, int var2) {
 
 ​       																								**扫码关注公众号：非攻安全**
 
-![](qrcode.jpg)
+![](./qrcode.jpg)
